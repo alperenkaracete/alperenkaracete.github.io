@@ -1,4 +1,4 @@
-# N11 Proje Notları
+# N11 Proje Notları 27.04.26
 
 Projemize başlarken ilk olarak backend ve frontend olmak üzere projemiz ile ilgili 2 repo oluşturuyoruz.
 
